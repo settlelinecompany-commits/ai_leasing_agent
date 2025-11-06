@@ -1,0 +1,7 @@
+# API layer only - your agent already has its dependencies
+fastapi==0.121.0
+uvicorn==0.30.1
+python-dotenv==1.0.1
+pydantic==2.9.2
+
+
